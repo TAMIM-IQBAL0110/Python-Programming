@@ -1,0 +1,4 @@
+First line updated using r+
+
+This is second line
+Appending a new line using with.
